@@ -1,1 +1,1 @@
-# LubinPicard.github.io
+# LubinPicard
